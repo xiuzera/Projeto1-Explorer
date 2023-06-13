@@ -18,7 +18,7 @@ Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="Projeto 01 - Explorer" src=".github/Projeto01.jpg" width="100%">
+  <img alt="Projeto 01 - Explorer" src="Projeto01.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -39,4 +39,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-by Rocketseat :wave: [Entrar em contato!](https://instagram.com/xiuzera1)
+by Phillippe Carvalho :wave: [Entrar em contato!](https://instagram.com/xiuzera1)
